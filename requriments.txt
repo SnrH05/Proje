@@ -1,0 +1,6 @@
+google-genai
+python-telegram-bot
+feedparser
+python-dateutil
+pandas
+yfinance
